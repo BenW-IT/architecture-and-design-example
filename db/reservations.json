@@ -1,0 +1,37 @@
+{
+    "1": {
+        "reservation_id": 1,
+        "customer_name": "trevor happyland",
+        "reservation_date": "2024-08-19 12:00:00",
+        "party_size": 4,
+        "special_requests": "no water"
+    },
+    "2": {
+        "reservation_id": 2,
+        "customer_name": "Brian",
+        "reservation_date": "2024-11-01 12:12:00",
+        "party_size": 4,
+        "special_requests": ""
+    },
+    "3": {
+        "reservation_id": 3,
+        "customer_name": "hugh man",
+        "reservation_date": "2024-09-20 20:00:00",
+        "party_size": 90,
+        "special_requests": "no food"
+    },
+    "4": {
+        "reservation_id": 4,
+        "customer_name": "joe nothungry",
+        "reservation_date": "2024-09-21 10:00:00",
+        "party_size": 10,
+        "special_requests": ""
+    },
+    "5": {
+        "reservation_id": 5,
+        "customer_name": "hugh man",
+        "reservation_date": "2024-09-09 10:00:00",
+        "party_size": 5,
+        "special_requests": ""
+    }
+}
